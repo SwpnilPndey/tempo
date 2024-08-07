@@ -1,3 +1,5 @@
 I am making my first project. Wish me luck. 
 
 This is my second commit. I am now consistent in this. haha
+
+This i am doing through git. It is confusing to some extent as a starting point but eventually is a life saver. 
